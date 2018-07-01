@@ -30,7 +30,7 @@ dates.set("Ex : 01-07-2018")
 
 
 def live():
-    api_key = "sg8bddg36r"
+    api_key = "<INPUT YOUT API KEY HERE>"
     base_url = "https://api.railwayapi.com/v2/live/train/"
     train_number = entry_1.get()
     current_date = entry_2.get()
